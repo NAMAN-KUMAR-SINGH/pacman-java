@@ -29,10 +29,17 @@ No external libraries or frameworks were used.
 
 ## 🚀 How to Run
 
-1. Make sure you have **Java JDK** installed.
-2. Clone or download the project source files.
-3. Compile and run the `Main` class using your preferred IDE (e.g., IntelliJ, Eclipse) or from the terminal:
+1.Make sure you have Java JDK installed.
 
+2.Clone or download the project source files.
+
+3.Open the project in your preferred Java IDE:
+
+  VS Code (with the Java Extension Pack installed),
+  IntelliJ IDEA,
+  Eclipse
+
+4.Run the App.java file as the main class.
 
 ![Screenshot (937)](https://github.com/user-attachments/assets/ae41fd6b-a223-403d-9c46-34403b3d455a)
 
