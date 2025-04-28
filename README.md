@@ -35,11 +35,11 @@ No external libraries or frameworks were used.
 
 3. Open the project in your preferred Java IDE:
 
-  VS Code (with the Java Extension Pack installed)
+   - VS Code (with the Java Extension Pack installed)
   
-  IntelliJ IDEA
+   - IntelliJ IDEA
   
-  Eclipse
+   - Eclipse
 
 4. Run the App.java file as the main class.
 
